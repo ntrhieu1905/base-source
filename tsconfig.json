@@ -17,7 +17,6 @@
     "esModuleInterop": true,
     "sourceMap": true,
     "paths": {
-      // Allow `@/` to map to `src/client/`
       "@/*": ["./src/client/*"],
     }
   },
